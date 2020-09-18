@@ -609,3 +609,7 @@ ul.bxslider {list-style: none;}
 .btn-jump-to-top:active {cursor: pointer;}
 .btn-jump-to-top.show, .show .icon-slide-up {opacity: 75%;visibility: visible;}
 .icon-slide-up:hover {opacity: 1;}
+.related-post {padding: 10px;}
+.related-post p {margin-bottom: unset;}
+.related-post strong {text-transform: uppercase;}
+.related-post a {text-decoration: none;}
